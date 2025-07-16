@@ -109,9 +109,8 @@ All result images are available in the `images/` directory.
 
 ## Contributors
 
-- [Your Name](https://github.com/ASHISHMAHAJAN787)
+- [ASHISH MAHAJAN](https://github.com/ASHISHMAHAJAN787)
 
 ---
 
-**Note:**  
-All result images are available in the `images/` directory. Update image paths if you move
+
